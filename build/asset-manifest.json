@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33322e4a.css",
+    "main.js": "/static/js/main.e3aaa8c7.js",
+    "static/media/logo.png": "/static/media/logo.bf1f3890288fe100f160.png",
+    "static/media/sat.png": "/static/media/sat.30396359c95b8a8e4f04.png",
+    "static/media/il3.png": "/static/media/il3.eac2ed98cadeff20b230.png",
+    "static/media/c2.jpg": "/static/media/c2.304c86c2ad72c2e7bfe9.jpg",
+    "static/media/c3.jpg": "/static/media/c3.01789fdcd33b03674549.jpg",
+    "static/media/il4.png": "/static/media/il4.aa906ae3ffb4daef6aff.png",
+    "static/media/il1.png": "/static/media/il1.1f1fc33edc022483c458.png",
+    "static/media/il2.png": "/static/media/il2.5b01267d1a8e06670801.png",
+    "static/media/c1.jpg": "/static/media/c1.030cc444ba9dbf75eb78.jpg",
+    "static/media/skylablogo.png": "/static/media/skylablogo.a54c9833736d63ca38a7.png",
+    "static/media/satelitte.svg": "/static/media/satelitte.7e19ff751e45e208116e4bd920fbfcd1.svg",
+    "static/media/sponsor1.svg": "/static/media/sponsor1.1352942c01364e26bd37a851ed61629a.svg",
+    "index.html": "/index.html",
+    "main.33322e4a.css.map": "/static/css/main.33322e4a.css.map",
+    "main.e3aaa8c7.js.map": "/static/js/main.e3aaa8c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33322e4a.css",
+    "static/js/main.e3aaa8c7.js"
+  ]
+}
